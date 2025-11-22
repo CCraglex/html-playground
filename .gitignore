@@ -1,0 +1,20 @@
+# WebStorm IDE klasörü ve ayar dosyaları
+.idea/
+.shelf/
+.idea/workspace.xml
+
+# Editor tabanlı HTTP Client istekleri
+/httpRequests/
+
+# Veri kaynakları
+/dataSources/
+.dataSources.local.xml
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Node.js veya derleme çıktıları (varsa)
+node_modules/
+dist/
+
